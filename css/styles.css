@@ -23,6 +23,13 @@ address {
 }
 
 .logo-part {
+  font-weight: 700;
+  font-size: 18px;
+
+  /* line-height: 21px; */
+  line-height: 1.16667;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
   color: #2e2f42; /* navyblue */
 }
 .header-menu-list {
