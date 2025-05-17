@@ -22,16 +22,10 @@ address {
   color: #4d5ae5; /* iris */
 }
 
-.logo-part {
-  font-weight: 700;
-  font-size: 18px;
-
-  /* line-height: 21px; */
-  line-height: 1.16667;
-  letter-spacing: 0.03em;
-  text-transform: uppercase;
-  color: #2e2f42; /* navyblue */
+.header-logo .logo-part {
+  color: #2e2f42;
 }
+
 .header-menu-list {
   color: #2e2f42;
 }
